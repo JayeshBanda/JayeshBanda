@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Jayesh Banda!
 
+Hi, I'm Jay - a passionate web developer & designer who turns ideas into interactive, responsive, and visually stunning websites. With a solid foundation in front-end and back-end development, I specialize in crafting clean, efficient code and seamless user experiences. I believe in combining creativity with technology to build solutions that are both innovative and user-friendly.
+
 <!--
 **JayeshBanda/JayeshBanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
